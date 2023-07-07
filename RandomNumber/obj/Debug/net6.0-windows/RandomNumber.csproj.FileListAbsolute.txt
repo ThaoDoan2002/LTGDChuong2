@@ -1,0 +1,17 @@
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.csproj.AssemblyReference.cache
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.Form1.resources
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.csproj.GenerateResource.cache
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.AssemblyInfoInputs.cache
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.AssemblyInfo.cs
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.csproj.CoreCompileInputs.cache
+D:\C#\CacPhepTinh\RandomNumber\bin\Debug\net6.0-windows\RandomNumber.exe
+D:\C#\CacPhepTinh\RandomNumber\bin\Debug\net6.0-windows\RandomNumber.deps.json
+D:\C#\CacPhepTinh\RandomNumber\bin\Debug\net6.0-windows\RandomNumber.runtimeconfig.json
+D:\C#\CacPhepTinh\RandomNumber\bin\Debug\net6.0-windows\RandomNumber.dll
+D:\C#\CacPhepTinh\RandomNumber\bin\Debug\net6.0-windows\RandomNumber.pdb
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.dll
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\refint\RandomNumber.dll
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.pdb
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\RandomNumber.genruntimeconfig.cache
+D:\C#\CacPhepTinh\RandomNumber\obj\Debug\net6.0-windows\ref\RandomNumber.dll

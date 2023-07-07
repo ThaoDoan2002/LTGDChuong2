@@ -1,0 +1,17 @@
+D:\C#\CacPhepTinh\CacPhepTinh\bin\Debug\net6.0-windows\CacPhepTinh.exe
+D:\C#\CacPhepTinh\CacPhepTinh\bin\Debug\net6.0-windows\CacPhepTinh.deps.json
+D:\C#\CacPhepTinh\CacPhepTinh\bin\Debug\net6.0-windows\CacPhepTinh.runtimeconfig.json
+D:\C#\CacPhepTinh\CacPhepTinh\bin\Debug\net6.0-windows\CacPhepTinh.dll
+D:\C#\CacPhepTinh\CacPhepTinh\bin\Debug\net6.0-windows\CacPhepTinh.pdb
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.csproj.AssemblyReference.cache
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.Form1.resources
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.csproj.GenerateResource.cache
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.AssemblyInfoInputs.cache
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.AssemblyInfo.cs
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.csproj.CoreCompileInputs.cache
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.dll
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\refint\CacPhepTinh.dll
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.pdb
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\CacPhepTinh.genruntimeconfig.cache
+D:\C#\CacPhepTinh\CacPhepTinh\obj\Debug\net6.0-windows\ref\CacPhepTinh.dll
